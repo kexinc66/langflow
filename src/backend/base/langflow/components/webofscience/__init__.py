@@ -1,1 +1,2 @@
+from .webofscience_component import WebOfScienceSearchComponent
 
